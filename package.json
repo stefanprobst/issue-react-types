@@ -1,0 +1,14 @@
+{
+  "name": "react-types",
+  "private": true,
+  "scripts": {
+    "types:check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "19.0.0-rc-100dfd7dab-20240701"
+  },
+  "devDependencies": {
+    "@types/react": "npm:types-react@rc",
+    "typescript": "^5.5.3"
+  }
+}
